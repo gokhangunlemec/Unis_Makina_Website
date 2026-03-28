@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(for f:*)",
-      "Bash(do echo:*)",
-      "Read(//c/Users/bilge/Downloads/UnisMakina/UnisMakina/urunler/**)"
-    ]
-  }
-}
