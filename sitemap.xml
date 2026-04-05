@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Ana Sayfalar / Main Pages -->
+  <url>
+    <loc>https://unismakina.com/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://unismakina.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unismakina.com/en/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Ürünler / Products -->
+  <url>
+    <loc>https://unismakina.com/urunler.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://unismakina.com/urunler.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unismakina.com/en/products.html"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/products.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Hakkımızda / About -->
+  <url>
+    <loc>https://unismakina.com/hakkimizda.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/about.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- İletişim / Contact -->
+  <url>
+    <loc>https://unismakina.com/iletisim.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/contact.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- TR Ürün Detay Sayfaları -->
+  <url>
+    <loc>https://unismakina.com/urunler/alfa-punta-direnc-kaynak.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://unismakina.com/urunler/alfa-punta-direnc-kaynak.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unismakina.com/en/products/alfa-spot-resistance-welding.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/urunler/beta-projeksiyon-kaynak.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://unismakina.com/urunler/beta-projeksiyon-kaynak.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unismakina.com/en/products/beta-projection-welding.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/urunler/gama-dikis-kaynak.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://unismakina.com/urunler/gama-dikis-kaynak.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unismakina.com/en/products/gama-seam-welding.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/urunler/robot-manuel-penseler.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://unismakina.com/urunler/robot-manuel-penseler.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unismakina.com/en/products/robot-manual-welding-guns.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/urunler/kontrol-uniteleri-trafolar.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://unismakina.com/urunler/kontrol-uniteleri-trafolar.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unismakina.com/en/products/control-units-transformers.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/urunler/tip3-multi-punta.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://unismakina.com/urunler/tip3-multi-punta.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unismakina.com/en/products/type3-multi-spot-welding.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/urunler/masa-tipi-punta-kaynak.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://unismakina.com/urunler/masa-tipi-punta-kaynak.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unismakina.com/en/products/bench-spot-welding.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/urunler/somun-civata-surmeler.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://unismakina.com/urunler/somun-civata-surmeler.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unismakina.com/en/products/nut-bolt-feeders.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/urunler/parca-alma-konumlandirma.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://unismakina.com/urunler/parca-alma-konumlandirma.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unismakina.com/en/products/part-positioning-systems.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/urunler/akilli-elektrotlar.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://unismakina.com/urunler/akilli-elektrotlar.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unismakina.com/en/products/smart-electrodes.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/urunler/seramik-pim-elektrotlar.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://unismakina.com/urunler/seramik-pim-elektrotlar.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unismakina.com/en/products/ceramic-pins-electrodes.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/urunler/ozel-kaynak-otomasyon.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://unismakina.com/urunler/ozel-kaynak-otomasyon.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unismakina.com/en/products/custom-welding-automation.html"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- EN Product Detail Pages -->
+  <url>
+    <loc>https://unismakina.com/en/products/alfa-spot-resistance-welding.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/products/beta-projection-welding.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/products/gama-seam-welding.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/products/robot-manual-welding-guns.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/products/control-units-transformers.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/products/type3-multi-spot-welding.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/products/bench-spot-welding.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/products/nut-bolt-feeders.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/products/part-positioning-systems.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/products/smart-electrodes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/products/ceramic-pins-electrodes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://unismakina.com/en/products/custom-welding-automation.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
