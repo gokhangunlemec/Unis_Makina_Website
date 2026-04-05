@@ -33,10 +33,11 @@
     <div class="contact-grid">
       <div class="contact-form">
         <h3 style="font-family:var(--font-condensed);font-weight:700;font-size:24px;color:var(--navy-900);margin-bottom:24px;">Bize Mesaj Gönderin</h3>
-        <form action="https://formsubmit.co/ukahraman@unismakina.com" method="POST" id="contactForm">
+        <form action="https://formsubmit.co/ggunlemec@unismakina.com" method="POST" id="contactForm">
           <input type="hidden" name="_subject" value="Unis Makina - Yeni İletişim Formu">
           <input type="hidden" name="_captcha" value="false">
           <input type="hidden" name="_next" value="">
+          <input type="hidden" name="_cc" value="ukahraman@unismakina.com,info@unismakina.com">
           <input type="text" name="_honey" style="display:none">
           <div class="form-row">
             <div class="form-group">
@@ -164,7 +165,7 @@ document.querySelector('form').addEventListener('submit', async function(e) {
       'Konu: ' + data.get('subject') + '\n\n' +
       'Mesaj:\n' + data.get('message')
     );
-    window.location.href = 'mailto:ukahraman@unismakina.com?subject=' + subject + '&body=' + body;
+    window.location.href = 'mailto:ggunlemec@unismakina.com?cc=ukahraman@unismakina.com,info@unismakina.com&subject=' + subject + '&body=' + body;
     form.style.display = 'none';
     document.getElementById('formSuccess').classList.add('show');
   }

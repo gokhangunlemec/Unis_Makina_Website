@@ -1,4 +1,4 @@
-/* ============================================
+﻿/* ============================================
    UNIS MAKINA - Industrial Welding Solutions
    Color Theme: Dark Navy + Industrial Orange
    ============================================ */
@@ -11,10 +11,10 @@
   --navy-700: #162a4a;
   --navy-600: #1e3a5f;
   --navy-500: #2a4d7a;
-  --orange-500: #e8610c;
-  --orange-400: #f07520;
-  --orange-300: #f59042;
-  --orange-glow: rgba(232, 97, 12, 0.15);
+  --orange-500: #b5161a;
+  --orange-400: #c8252a;
+  --orange-300: #d94448;
+  --orange-glow: rgba(181, 22, 26, 0.15);
   --white: #ffffff;
   --gray-100: #f4f5f7;
   --gray-200: #e2e4e9;
@@ -28,7 +28,7 @@
   --shadow-sm: 0 2px 8px rgba(10, 22, 40, 0.08);
   --shadow-md: 0 4px 20px rgba(10, 22, 40, 0.12);
   --shadow-lg: 0 8px 40px rgba(10, 22, 40, 0.18);
-  --shadow-orange: 0 4px 20px rgba(232, 97, 12, 0.3);
+  --shadow-orange: 0 4px 20px rgba(181, 22, 26, 0.3);
   --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
